@@ -1,10 +1,11 @@
 # Hello, I am Justin Schneider!
 
-[![Protonmail Badge](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:jschneider3@protonmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/justschneid)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18432773/justin-s)
 
 ### Nice to meet you!
+I am a recent computer science graduate from Liberty University with a degree in cyber-security. I was born and raised in Florida with a passion for tech and all the opportunities that it offers us. Now based in Wilmington, North Carolina, I am constantly looking for opportunities to challenge myself and expand my skillset. While my career has only recently started, I have already had the pleasure to work on multiple projects during my college career, including the opportunity to work with the DHS! Feel free to check out some of my previous projects and experiences over at my website! I look forward to the opportunity to work with you.
+
 - 👋 Hi, I’m @Just-Schneid
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
