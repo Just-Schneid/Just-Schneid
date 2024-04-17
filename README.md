@@ -9,7 +9,7 @@ I have already had the pleasure to work on several large-scale projects througho
 
 **Some Fun Facts About Me:**
 - I am passionate about all things software engineering, cyber-security, and database administration!
-- When I first started coding, C++ was my first language that I learned.
+- When I first started coding, C++ was the first programming language that I learned.
 - I've been obsessed with the Marvel Cinematic Universe ever since the original Iron Man released.
 - I love playing all kinds of games - both tabletop and virtual.
 - I have a passion for traveling around the world and enjoying new experiences!... although my wallet tends to disagree.
